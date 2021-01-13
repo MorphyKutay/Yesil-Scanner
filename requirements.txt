@@ -1,0 +1,6 @@
+huepy
+terminaltables
+termcolor
+requests
+terminal-banner
+pyfiglet
