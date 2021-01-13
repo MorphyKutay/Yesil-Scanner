@@ -8,7 +8,12 @@
   -p, --positive        vendor analizinde yalnızca olumlu sonuçları göster
   -o, --out             JSON response'unu bir dosyaya kaydedin
   -c, --clear           vendor analizi sonuçlarını yazdırmadan önce ekranı
-                        temizleyin
-**Amac:**  
+          
+          
+
+
+
+# Amac
+
 
 Belirttiginiz Dosyayi Virus Totalde Tariyarak Size Daha Guvenli Bir Bilgisayar Kullanimi Amacliyoruz
